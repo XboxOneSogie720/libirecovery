@@ -15,10 +15,8 @@ No idea. I've been looking for ways to do cool stuff ever since I got into the [
 ## How to Build
 1. Grab yourself the [toolchain](https://ce-programming.github.io/toolchain/)
 2. Clone this repository: `git clone https://www.github.com/XboxOneSogie720/libirecovery.git`
-3. cd into it
-4. `make`
-5. Send the app to your calculator with [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
-6. Open with a shell if necessary
+3. copy the source files into your project
+4. Use them
 
 ## Credits
 - [Apple Inc.](https://www.apple.com/) for their amazing devices
