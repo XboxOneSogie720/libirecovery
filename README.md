@@ -19,3 +19,9 @@ No idea. I've been looking for ways to do cool stuff ever since I got into the [
 4. `make`
 5. Send the app to your calculator with [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
 6. Open with a shell if necessary
+
+## Credits
+- [Apple Inc.](https://www.apple.com/) for their amazing devices
+- [libimobiledevice](https://libimobiledevice.org/) for the implementation.
+- [TI-84 Plus CE Toolchain Team](https://ce-programming.github.io/toolchain/)
+- [Embedded sscanf()](https://41j.com/blog/2015/01/standalone-sscanf-implementation-esp8266/)
